@@ -1,0 +1,2 @@
+﻿copy staging.ccle_expression_sif
+ from '/tmp/CCLE_Expression.Arrays.sif_2012-10-18.txt'
